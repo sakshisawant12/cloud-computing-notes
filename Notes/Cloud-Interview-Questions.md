@@ -1,15 +1,5 @@
 # ☁️ Cloud Computing Interview Questions & Answers
 
-> Beginner-friendly Cloud Computing interview notes for Freshers, Cloud Support Engineers, and Cloud Engineers.
-
----
-
-# 📖 Table of Contents
-
-- [Chapter 1 – Introduction](#-chapter-1--introduction)
-
----
-
 # 📘 Chapter 1 – Introduction
 
 ## 1. What is Cloud Computing?
